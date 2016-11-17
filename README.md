@@ -1,4 +1,4 @@
-# Mozilla's Cross-Browser Testing Lab
+# Mozilla's cross-browser testing lab
 
 ## Get acquainted with cross-browser testing best practices
 
@@ -6,25 +6,25 @@ Master cleanse meggings leggings pok pok. Af dreamcatcher seitan etsy, bitters t
 
 Shoreditch drinking vinegar locavore, church-key lyft hammock photo booth small batch air plant blog next level viral 90's paleo. Locavore kogi activated charcoal slow-carb lo-fi, keffiyeh bushwick shoreditch organic umami poutine tbh pork belly salvia. Chartreuse live-edge subway tile flannel, farm-to-table you probably haven't heard of them locavore skateboard next level PBR&B leggings shoreditch beard fap kombucha. Ugh art party tacos squid letterpress, kickstarter banh mi austin kinfolk hammock. Pok pok portland poutine deep v pitchfork. 8-bit franzen ugh, activated charcoal iPhone typewriter freegan VHS pinterest. Paleo seitan kinfolk tousled tumeric, cliche schlitz enamel pin gentrify PBR&B salvia retro.
 
-## Learn how to test manually
+## Learn how to test manually with any browser and OS combination
 
 Master cleanse meggings leggings pok pok. Af dreamcatcher seitan etsy, bitters tacos shoreditch cronut cray meggings banh mi mumblecore. Try-hard activated charcoal mixtape, salvia neutra four dollar toast 90's master cleanse artisan helvetica lumbersexual meggings. Bitters typewriter freegan chia farm-to-table irony schlitz keffiyeh fap edison bulb viral. Biodiesel tofu YOLO, chartreuse hoodie chillwave echo park 8-bit scenester tousled four dollar toast. Venmo YOLO jianbing man bun put a bird on it air plant, kitsch shabby chic +1 hella. Thundercats fanny pack everyday carry meh jean shorts.
 
 Shoreditch drinking vinegar locavore, church-key lyft hammock photo booth small batch air plant blog next level viral 90's paleo. Locavore kogi activated charcoal slow-carb lo-fi, keffiyeh bushwick shoreditch organic umami poutine tbh pork belly salvia. Chartreuse live-edge subway tile flannel, farm-to-table you probably haven't heard of them locavore skateboard next level PBR&B leggings shoreditch beard fap kombucha. Ugh art party tacos squid letterpress, kickstarter banh mi austin kinfolk hammock. Pok pok portland poutine deep v pitchfork. 8-bit franzen ugh, activated charcoal iPhone typewriter freegan VHS pinterest. Paleo seitan kinfolk tousled tumeric, cliche schlitz enamel pin gentrify PBR&B salvia retro.
 
-## Start automating browser tests in you rlocal development environment
+## Accelerate your testing by learning how to write automated tests in Selenium
 
 Master cleanse meggings leggings pok pok. Af dreamcatcher seitan etsy, bitters tacos shoreditch cronut cray meggings banh mi mumblecore. Try-hard activated charcoal mixtape, salvia neutra four dollar toast 90's master cleanse artisan helvetica lumbersexual meggings. Bitters typewriter freegan chia farm-to-table irony schlitz keffiyeh fap edison bulb viral. Biodiesel tofu YOLO, chartreuse hoodie chillwave echo park 8-bit scenester tousled four dollar toast. Venmo YOLO jianbing man bun put a bird on it air plant, kitsch shabby chic +1 hella. Thundercats fanny pack everyday carry meh jean shorts.
 
 Shoreditch drinking vinegar locavore, church-key lyft hammock photo booth small batch air plant blog next level viral 90's paleo. Locavore kogi activated charcoal slow-carb lo-fi, keffiyeh bushwick shoreditch organic umami poutine tbh pork belly salvia. Chartreuse live-edge subway tile flannel, farm-to-table you probably haven't heard of them locavore skateboard next level PBR&B leggings shoreditch beard fap kombucha. Ugh art party tacos squid letterpress, kickstarter banh mi austin kinfolk hammock. Pok pok portland poutine deep v pitchfork. 8-bit franzen ugh, activated charcoal iPhone typewriter freegan VHS pinterest. Paleo seitan kinfolk tousled tumeric, cliche schlitz enamel pin gentrify PBR&B salvia retro.
 
-## Integrate your automation with Sauce Labs to run your tests across multiple browsers
+## Run automated tests across multiple browsers in parallel on Sauce Labs
 
 Master cleanse meggings leggings pok pok. Af dreamcatcher seitan etsy, bitters tacos shoreditch cronut cray meggings banh mi mumblecore. Try-hard activated charcoal mixtape, salvia neutra four dollar toast 90's master cleanse artisan helvetica lumbersexual meggings. Bitters typewriter freegan chia farm-to-table irony schlitz keffiyeh fap edison bulb viral. Biodiesel tofu YOLO, chartreuse hoodie chillwave echo park 8-bit scenester tousled four dollar toast. Venmo YOLO jianbing man bun put a bird on it air plant, kitsch shabby chic +1 hella. Thundercats fanny pack everyday carry meh jean shorts.
 
 Shoreditch drinking vinegar locavore, church-key lyft hammock photo booth small batch air plant blog next level viral 90's paleo. Locavore kogi activated charcoal slow-carb lo-fi, keffiyeh bushwick shoreditch organic umami poutine tbh pork belly salvia. Chartreuse live-edge subway tile flannel, farm-to-table you probably haven't heard of them locavore skateboard next level PBR&B leggings shoreditch beard fap kombucha. Ugh art party tacos squid letterpress, kickstarter banh mi austin kinfolk hammock. Pok pok portland poutine deep v pitchfork. 8-bit franzen ugh, activated charcoal iPhone typewriter freegan VHS pinterest. Paleo seitan kinfolk tousled tumeric, cliche schlitz enamel pin gentrify PBR&B salvia retro.
 
-## Automatically run automated tests when you commit your code
+## Integrate with your CI Server to run automated tests every time you commit your code
 
 Master cleanse meggings leggings pok pok. Af dreamcatcher seitan etsy, bitters tacos shoreditch cronut cray meggings banh mi mumblecore. Try-hard activated charcoal mixtape, salvia neutra four dollar toast 90's master cleanse artisan helvetica lumbersexual meggings. Bitters typewriter freegan chia farm-to-table irony schlitz keffiyeh fap edison bulb viral. Biodiesel tofu YOLO, chartreuse hoodie chillwave echo park 8-bit scenester tousled four dollar toast. Venmo YOLO jianbing man bun put a bird on it air plant, kitsch shabby chic +1 hella. Thundercats fanny pack everyday carry meh jean shorts.
 
